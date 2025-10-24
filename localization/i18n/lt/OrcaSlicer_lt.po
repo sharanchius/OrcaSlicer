@@ -24,22 +24,22 @@ msgid "Current AMS humidity"
 msgstr "Dabartinė AMS drėgmė"
 
 msgid "Drying"
-msgstr ""
+msgstr "Džiovinimas"
 
 msgid "Idle"
 msgstr "Tuščias"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Drėgmė"
 
 msgid "Temperature"
 msgstr "Temperatūra"
 
 msgid "Left Time"
-msgstr ""
+msgstr "Likęs laikas"
 
 msgid "Serial:"
-msgstr "Serijinis:"
+msgstr "Nuoseklusis:"
 
 msgid "Version:"
 msgstr "Versija:"
@@ -54,7 +54,7 @@ msgid "Ctrl+"
 msgstr "Ctrl+"
 
 msgid "Alt+"
-msgstr ""
+msgstr "Alt+"
 
 msgid "Shift+"
 msgstr "Shift+"
@@ -149,8 +149,8 @@ msgid ""
 "Filament count exceeds the maximum number that painting tool supports. Only "
 "the first %1% filaments will be available in painting tool."
 msgstr ""
-"Gijų skaičius viršija didžiausią palaikomą piešimo įrankio. Piešimo įrankyje "
-"bus pasiekiami tik pirmosios %1% gijos."
+"Gijų skaičius viršija skaičių, palaikomą piešimo įrankio. Piešimo įrankyje "
+"bus pasiekiamos tik pirmosios %1% gijos."
 
 msgid "Color Painting"
 msgstr "Spalvotas piešimas"
@@ -189,16 +189,16 @@ msgid "Height range"
 msgstr "Aukščio diapazonas"
 
 msgid "Enter"
-msgstr ""
+msgstr "Įvesti"
 
 msgid "Toggle Wireframe"
 msgstr "Perjungti \"vielinį\" vaizdą"
 
 msgid "Remap filaments"
-msgstr ""
+msgstr "Pakeisti gijų išdėstymą"
 
 msgid "Remap"
-msgstr ""
+msgstr "Pakeisti išdėstymą"
 
 msgid "Cancel"
 msgstr "Atšaukti"
@@ -226,7 +226,7 @@ msgid "Painted using: Filament %1%"
 msgstr "Piešta naudojant: Gija %1%"
 
 msgid "Filament remapping finished."
-msgstr ""
+msgstr "Gijų išdėstymas pakeistas"
 
 msgid "Move"
 msgstr "Perkelti"
@@ -265,19 +265,19 @@ msgid "mm"
 msgstr "mm"
 
 msgid "Part selection"
-msgstr ""
+msgstr "Detalės pasirinkimas"
 
 msgid "Fixed step drag"
 msgstr ""
 
 msgid "Single sided scaling"
-msgstr ""
+msgstr "Fiksuoto žingsnio vilkimas"
 
 msgid "Position"
 msgstr "Padėtis"
 
 msgid "Rotate (relative)"
-msgstr ""
+msgstr "Sukti (santykinai)"
 
 msgid "Scale ratios"
 msgstr "Mastelis"
@@ -313,16 +313,16 @@ msgid "World coordinates"
 msgstr "Pasaulio koordinatės"
 
 msgid "Reset current rotation to the value when open the rotation tool."
-msgstr ""
+msgstr "Atkurti dabartinį pasukimą iki vertės, buvusios atidarius pasukimo įrankį."
 
 msgid "Rotate (absolute)"
-msgstr ""
+msgstr "Sukti (absoliučiai)"
 
 msgid "Reset current rotation to real zeros."
-msgstr ""
+msgstr "Atstatyti dabartinį sukimąsi į tikrąsias nulines vertes."
 
 msgid "Part coordinates"
-msgstr ""
+msgstr "Detalės koordinatės"
 
 #. TRN - Input label. Be short as possible
 msgid "Size"
@@ -332,7 +332,7 @@ msgid "uniform scale"
 msgstr "vienoda skalė"
 
 msgid "Planar"
-msgstr "Planarinis"
+msgstr "Plokščias"
 
 msgid "Dovetail"
 msgstr "Šakinis sujungimas"
@@ -410,7 +410,7 @@ msgid "Groove Angle"
 msgstr "Griovelio kampas"
 
 msgid "Part"
-msgstr "Dalis"
+msgstr "Detalė"
 
 msgid "Object"
 msgstr "Objektas"
@@ -617,7 +617,7 @@ msgid ""
 "Processing model '%1%' with more than 1M triangles could be slow. It is "
 "highly recommended to simplify the model."
 msgstr ""
-"Modelio „%1%“ apdorojimas su daugiau nei 1 milijonu trikampių gali būti "
+"Modelio „%1%“ su daugiau nei 1 milijonu trikampių apdorojimas gali būti"
 "lėtas. Labai rekomenduojama supaprastinti modelį."
 
 msgid "Simplify model"
@@ -628,13 +628,13 @@ msgstr "Supaprastinti"
 
 msgid "Simplification is currently only allowed when a single part is selected"
 msgstr ""
-"Šiuo metu supaprastinimas leidžiamas tik tada, kai pasirenkama viena dalis"
+"Šiuo metu supaprastinimas leidžiamas tik tada, kai pasirenkama viena detalė"
 
 msgid "Error"
 msgstr "Klaida"
 
 msgid "Extra high"
-msgstr "Papildomas aukštis"
+msgstr "Itin aukštas"
 
 msgid "High"
 msgstr "Aukštas"
@@ -650,7 +650,7 @@ msgstr "Itin žemas"
 
 #, c-format, boost-format
 msgid "%d triangles"
-msgstr "%d trikampiai"
+msgstr "%d trikampių"
 
 msgid "Show wireframe"
 msgstr "Rodyti vielinį rėmą"
@@ -725,7 +725,7 @@ msgid "Horizontal text"
 msgstr "Horizontalus tekstas"
 
 msgid "Mouse move up or down"
-msgstr ""
+msgstr "Pele judėkite aukštyn arba žemyn"
 
 msgid "Rotate text"
 msgstr "Sukti tekstą"
@@ -1437,7 +1437,7 @@ msgid "Warning: please select Point's or Circle's feature."
 msgstr "Įspėjimas: pasirinkite Taško arba Apskritimo funkciją."
 
 msgid "Warning: please select two different meshes."
-msgstr ""
+msgstr "Įspėjimas: pasirinkite dvi skirtingas figūras."
 
 msgid "Copy to clipboard"
 msgstr "Nukopijuoti į iškarpinę"
@@ -1513,7 +1513,7 @@ msgstr ""
 "atpažintos."
 
 msgid "Based on PrusaSlicer and BambuStudio"
-msgstr ""
+msgstr "Remiantis PrusaSlicer ir BambuStudio"
 
 msgid ""
 "OrcaSlicer will terminate because of running out of memory. It may be a bug. "
@@ -1762,7 +1762,7 @@ msgid "Top Minimum Shell Thickness"
 msgstr "Mažiausias viršutinio apvalkalo storis"
 
 msgid "Top Surface Density"
-msgstr ""
+msgstr "Viršutinio paviršiaus tankis"
 
 msgid "Bottom Solid Layers"
 msgstr "Apatiniai ištisiniai sluoksniai"
@@ -1771,7 +1771,7 @@ msgid "Bottom Minimum Shell Thickness"
 msgstr "Mažiausias apatinio apvalkalo storis"
 
 msgid "Bottom Surface Density"
-msgstr ""
+msgstr "Apatinio paviršiaus tankis"
 
 msgid "Ironing"
 msgstr "Lyginimas"
@@ -1840,7 +1840,7 @@ msgid "Delete the selected object"
 msgstr "Ištrinti pasirinktą objektą"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 msgid "Load..."
 msgstr "Įkelti..."
@@ -2180,7 +2180,7 @@ msgstr[1] "%1$d neuždaros briaunos"
 msgstr[2] "%1$d neuždarų briaunų"
 
 msgid "Click the icon to repair model object"
-msgstr ""
+msgstr "Spustelėkite piktogramą, kad pataisytumėte modelio objektą."
 
 msgid "Right button click the icon to drop the object settings"
 msgstr ""
@@ -2237,16 +2237,16 @@ msgstr ""
 "objektų atskirų nustatymų režimą."
 
 msgid "Remove paint-on fuzzy skin"
-msgstr ""
+msgstr "Pašalinti pieštą nelygų paviršių"
 
 msgid "Delete connector from object which is a part of cut"
-msgstr "Pašalinkite jungtį nuo objekto, kuris yra pjūvio dalis"
+msgstr "Pašalinti jungtį nuo objekto, kuris yra pjūvio dalis"
 
 msgid "Delete solid part from object which is a part of cut"
 msgstr "Ištrinti vientisą objekto dalį, kuri yra pjūvio dalis"
 
 msgid "Delete negative volume from object which is a part of cut"
-msgstr "Pašalinkite neigiamą tūrį iš pjūvyje esančio objekto"
+msgstr "Pašalinti neigiamą tūrį iš pjūvyje esančio objekto"
 
 msgid ""
 "To save cut correspondence you can delete all connectors from all related "
@@ -2275,7 +2275,7 @@ msgid "Deleting the last solid part is not allowed."
 msgstr "Neleidžiama ištrinti paskutinės ištisinės dalies."
 
 msgid "The target object contains only one part and can not be split."
-msgstr ""
+msgstr "Tikslinis objektas susideda tik iš vienos dalies ir negali būti padalytas."
 
 msgid "Assembly"
 msgstr "Surinkimas"
@@ -2829,7 +2829,7 @@ msgstr ""
 
 #, c-format, boost-format
 msgid "Access code:%s IP address:%s"
-msgstr ""
+msgstr "Prieigos kodas:%s IP adresas:%s"
 
 msgid "An SD card needs to be inserted before printing via LAN."
 msgstr "Prieš spausdinant per vietinį tinklą, reikia įdėti SD kortelę."
@@ -3093,10 +3093,10 @@ msgid "AMS Slots"
 msgstr "AMS angos"
 
 msgid "Left AMS"
-msgstr ""
+msgstr "Kairysis AMS"
 
 msgid "Right AMS"
-msgstr ""
+msgstr "Dešinysis AMS"
 
 msgid ""
 "Note: Only the AMS slots loaded with the same material type can be selected."
@@ -3221,6 +3221,9 @@ msgid ""
 "start-up. It will take about 1 minute. The reading process will roll the "
 "filament spools."
 msgstr ""
+"AMS automatiškai nuskaitys įdėtos gijos informaciją paleidimo "
+"metu. Tai užtruks apie 1 minutę. Nuskaitymo procesas suks gijos "
+"ritinius."
 
 msgid ""
 "The AMS will not automatically read information from inserted filament "
@@ -3876,11 +3879,15 @@ msgid ""
 "Lock depth should smaller than skin depth.\n"
 "Reset to 50% of skin depth."
 msgstr ""
+"Fiksavimo gylis turėtų būti mažesnis už paviršiaus gylį.\n"
+"Atstatykite iki 50 % paviršiaus gylio."
 
 msgid ""
 "Both [Extrusion] and [Combined] modes of Fuzzy Skin require the Arachne Wall "
 "Generator to be enabled."
 msgstr ""
+"Tiek [Ekstruzijos], tiek [Kombinuotas] Fuzzy Skin režimai reikalauja, kad Arachne Wall "
+"Generatorius būtų įjungtas."
 
 msgid ""
 "Change these settings automatically?\n"
@@ -3888,6 +3895,10 @@ msgid ""
 "No  - Disable Arachne Wall Generator and set [Displacement] mode of the "
 "Fuzzy Skin"
 msgstr ""
+"Automatiškai pakeisti šiuos nustatymus?\n"
+"Taip – įjungti Arachne sienos generatorių\n"
+"Ne  – išjungti Arachne sienos generatorių ir nustatyti „Fuzzy Skin“ [Displacement] režimą"
+"Fuzzy Skin"
 
 msgid ""
 "Spiral mode only works when wall loops is 1, support is disabled, top shell "
@@ -3912,7 +3923,7 @@ msgstr ""
 "Ne - Šį kartą nenaudoti spiralės režimo"
 
 msgid "Auto bed leveling"
-msgstr "Automatinis spausdinimo pagrindo lyginimas"
+msgstr "Automatinis spausdinimo pagrindo lygiavimas"
 
 msgid "Heatbed preheating"
 msgstr "Spausdinimo pagrindo pašildymas iš anksto"
@@ -4045,12 +4056,18 @@ msgid ""
 "45℃. In order to avoid extruder clogging, low temperature filament (PLA/PETG/"
 "TPU) is not allowed to be loaded."
 msgstr ""
+"Dabartinė kameros temperatūra arba siekiama kameros temperatūra viršija "
+"45 ℃. Siekiant išvengti ekstruderių užsikimšimo, negalima įdėti žemos temperatūros "
+"gijų (PLA/PETG/TPU)."
 
 msgid ""
 "Low temperature filament (PLA/PETG/TPU) is loaded in the extruder. In order "
 "to avoid extruder clogging, it is not allowed to set the chamber temperature "
 "above 45℃."
 msgstr ""
+"Į ekstruderį įdedama žemos temperatūros gija (PLA/PETG/TPU). Siekiant "
+"išvengti ekstruderio užsikimšimo, kameros temperatūra neturi būti nustatoma "
+"aukštesnė nei 45 °C."
 
 msgid ""
 "When you set the chamber temperature below 40℃, the chamber temperature "
@@ -4214,19 +4231,21 @@ msgid "Some extension in the input is invalid"
 msgstr "Kai kurie įvesties plėtiniai yra netinkami"
 
 msgid "This parameter expects a valid template."
-msgstr ""
+msgstr "Šis parametras reikalauja galiojančio šablono."
 
 msgid ""
 "Invalid pattern. Use N, N#K, or a comma-separated list with optional #K per "
 "entry. Examples: 5, 5#2, 1,7,9, 5,9#2,18."
 msgstr ""
+"Neteisingas šablonas. Naudokite N, N#K arba kableliais atskirtą sąrašą su "
+"pasirinktiniu #K kiekvienam įrašui. Pavyzdžiui: 5, 5#2, 1,7,9, 5,9#2,18."
 
 #, boost-format
 msgid "Invalid format. Expected vector format: \"%1%\""
 msgstr "Netinkamas formatas. Tinkamas vektorinis formatas: \"%1%\""
 
 msgid "Pick"
-msgstr ""
+msgstr "Pasirinkite"
 
 msgid "Layer Height"
 msgstr "Sluoksnio aukštis"
@@ -4316,7 +4335,7 @@ msgid "Time"
 msgstr "Laikas"
 
 msgid "Usage"
-msgstr ""
+msgstr "Naudojimas"
 
 msgid "Layer Height (mm)"
 msgstr "Sluoksnio aukštis (mm)"
@@ -4445,16 +4464,16 @@ msgid "Sequence"
 msgstr "Seka"
 
 msgid "object selection"
-msgstr ""
+msgstr "objekto pasirinkimas"
 
 msgid "part selection"
-msgstr ""
+msgstr "detalės pasirinkimas"
 
 msgid "number keys"
-msgstr ""
+msgstr "skaičių klavišai"
 
 msgid "number keys can quickly change the color of objects"
-msgstr ""
+msgstr "skaičių klavišais galima greitai pakeisti objektų spalvą"
 
 msgid "Mirror Object"
 msgstr "Atspindėti objektą"
@@ -4535,10 +4554,10 @@ msgid "Failed"
 msgstr "Nepavyko"
 
 msgid "All Plates"
-msgstr ""
+msgstr "Visos plokštės"
 
 msgid "Stats"
-msgstr ""
+msgstr "Statistika"
 
 msgid "Assembly Return"
 msgstr "Sugrąžinti surinkimą"
@@ -4559,7 +4578,7 @@ msgid "Assemble Control"
 msgstr "Surinkimo valdymas"
 
 msgid "Selection Mode"
-msgstr ""
+msgstr "Pasirinkimo režimas"
 
 msgid "Total Volume:"
 msgstr "Visas tūris:"
@@ -4823,7 +4842,7 @@ msgid "Open a project file"
 msgstr "Atidaryti projekto failą"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Naujausi failai"
 
 msgid "Save Project"
 msgstr "Išsaugoti projektą"
@@ -5049,22 +5068,22 @@ msgid "Max flowrate"
 msgstr "Maks srautas"
 
 msgid "Junction Deviation"
-msgstr ""
+msgstr "Sujungimo nuokrypis"
 
 msgid "Junction Deviation calibration"
-msgstr ""
+msgstr "Sujungimo nuokrypio kalibracija"
 
 msgid "Cornering"
-msgstr ""
+msgstr "Posūkiai""
 
 msgid "Input Shaping Frequency"
-msgstr ""
+msgstr "Įvesties formavimo dažnis"
 
 msgid "Input Shaping Damping/zeta factor"
-msgstr ""
+msgstr "Įvesties formavimas Slopinimas/zeta koeficientas"
 
 msgid "Input Shaping"
-msgstr ""
+msgstr "Įvesties formavimas"
 
 msgid "VFA"
 msgstr "VFA"
@@ -5568,10 +5587,10 @@ msgid "Debug Info"
 msgstr "Derinimo informacija"
 
 msgid "No Storage"
-msgstr ""
+msgstr "Nėra saugyklos"
 
 msgid "Storage Abnormal"
-msgstr ""
+msgstr "Saugojimo anomalija"
 
 msgid "Cancel print"
 msgstr "Atšaukti spausdinimą"
@@ -5617,6 +5636,8 @@ msgid ""
 "Cannot read filament info: the filament is loaded to the tool head,please "
 "unload the filament and try again."
 msgstr ""
+"Neįmanoma nuskaityti gijos informacijos: gija įdėta į įrankio galvutę, "
+"prašau išimti giją ir bandyti dar kartą."
 
 msgid "This only takes effect during printing"
 msgstr "Tai turi įtakos tik spausdinimo metu"
@@ -5962,7 +5983,7 @@ msgid "Cut connectors"
 msgstr "Pjūvių jungtys"
 
 msgid "Paint-on fuzzy skin"
-msgstr ""
+msgstr "Piešiamas nalygus paviršius"
 
 msgid "Layers"
 msgstr "Sluoksniai"
@@ -6261,17 +6282,25 @@ msgid ""
 "rotation template settings that may not work properly with your current "
 "infill pattern. This could result in weak support or print quality issues."
 msgstr ""
+"Šis projektas buvo sukurtas naudojant OrcaSlicer 2.3.1-alpha ir naudoja "
+"užpildymo pasukimo šablono nustatymus, kurie gali neveikti tinkamai su "
+"jūsų dabartiniu užpildymo modeliu. Dėl to gali atsirasti silpnos atramos "
+"arba spausdinimo kokybės problemų."
 
 msgid ""
 "Would you like OrcaSlicer to automatically fix this by clearing the rotation "
 "template settings?"
 msgstr ""
+"Ar norėtumėte, kad OrcaSlicer automatiškai ištaisytų šią problemą, išvalydamas "
+pasukimo šablono nustatymus?"
 
 #, c-format, boost-format
 msgid ""
 "The 3mf's version %s is newer than %s's version %s, found following "
 "unrecognized keys:"
 msgstr ""
+"3mf versija %s yra naujesnė už %s versiją %s, rasta prie "
+"neatpažintų raktų:"
 
 msgid "You'd better upgrade your software.\n"
 msgstr "Geriau jau atnaujinkite savo programinę įrangą\n"
